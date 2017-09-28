@@ -60,7 +60,7 @@ Min. Loss:
     Test     = 0.2000
 Accuracies:
     Training = 0.9000
-    Test     = 0.9500
+    Test     = 0.8962
 
 """
 
