@@ -1,6 +1,6 @@
 # Genetic-Neural-Network
 Training a Neural Network using Genetic Programming.      
-## Here are the results obtained after training a neural net with both backpropagation and Genetic programming. Clearly GP approach outperformed the traditional backpropogation approach.    
+## Here are the results obtained after training a neural net with both backpropagation and Genetic programming.   
 
 ### Trained using GP (on the training set):     
 ![alt tag](https://raw.githubusercontent.com/yugrocks/Genetic-Neural-Network/master/GNN_training_set.png)    
