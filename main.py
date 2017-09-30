@@ -173,9 +173,6 @@ initialize_population()
 loss, weights = evolve(population ,max_iter = 1000,min_desired_loss = 0.2000, crossover_prob = 0.7, mutation_prob = 0.2, crossover2_prob = 0.2)
 weights = get_weights_from_encoded(weights)
 
-"""The loss after 1000 generations comes out to be 0.2231. Clearly it is faster(well, it depends.) 
-and outperformed the one with backpropagation using adam optimizer for same number of iterations."""
-
 #Checking accuracy by plotting
 model = model(weights)
 #Training accuracy:
