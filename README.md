@@ -1,5 +1,5 @@
 # Genetic-Neural-Network
-Training a Neural Network using Genetic Programming.      
+Training a Neural Network using Genetic Algorithm.      
 ## Here are the results obtained after training a neural net with both backpropagation and Genetic programming.   
 
 ### Trained using GP (on the training set):     
