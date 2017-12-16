@@ -4,11 +4,11 @@ Training a Neural Network using Genetic Algorithm.
 
 ### Trained using GP (on the training set):     
 ![alt tag](https://raw.githubusercontent.com/yugrocks/Genetic-Neural-Network/master/GNN_training_set.png)    
-### Trained using GP (on the test set):    
+### Trained using GP (Performance on the test set):    
 ![alt tag](https://raw.githubusercontent.com/yugrocks/Genetic-Neural-Network/master/GNN_test_set.png)    
 ### Trained using Backprop (on the training set):    
 ![alt tag](https://raw.githubusercontent.com/yugrocks/Genetic-Neural-Network/master/NN_training_set.png)    
-### Trained using Backprop (on the test set):    
+### Trained using Backprop (Performance on the test set):    
 ![alt tag](https://raw.githubusercontent.com/yugrocks/Genetic-Neural-Network/master/NN_test_set.png)    
 
 # Stats:    
