@@ -1,4 +1,5 @@
-# Genetic-Neural-Network
+# Genetic-Neural-Network<br>
+<a href="https://unisp.tech">Check out for cool projects about drones and AI</a><br>
 Training a Neural Network using Genetic Algorithm.      
 ## Here are the results obtained after training a neural net with both backpropagation and Genetic programming.   
 
